@@ -1,0 +1,151 @@
+@media(max-width:1000px) {
+
+}
+@media(max-width:1200px) {
+  .advantages__inner-text {
+    margin-top: 101px;
+    width: 303px;
+    padding-left: 20px;
+}
+.design__img {
+  img {
+    width: 100%;
+  }
+}
+}
+@media(max-width:1020px) {
+  .design__row {
+    display: block;
+  }
+  .design__row-item {
+    margin-bottom: 50px;
+    max-width: 100%;
+  }
+  .design__row-item-text {
+    max-width: 100%;
+  }
+  .design__img, 
+  .design__row {
+    margin-bottom: 50px;
+}
+}
+@media(max-width:930px) {
+  .advantages__inner-row {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .advantages__inner-title {
+    position: static;
+  }
+  .advantages__inner-content {
+    text-align: center;
+
+  }
+  .advantages__inner-text{
+    margin: 20px auto;
+    padding-left: 0;
+ 
+  }
+  .advantages__inner-row--mobile {
+    .advantages__inner-content{
+      order: -1;
+      display: flex;
+    flex-direction: column;
+
+    }
+    
+  }
+  .advantages__inner-row {
+    margin-bottom: 20px;
+  }
+  
+}
+@media (max-width: 930px){
+.advantages__inner-title {
+    position: static;
+}
+.advantages__inner-title {
+  position: static;
+}
+.advantages__inner-title--bottom {
+  bottom: 0;
+  right: 0;
+  top: auto;
+  order: -1;
+}
+@media(max-width:650px) {
+  .advantages__inner-img img {
+    width: 100%;
+  }
+
+}
+@media(max-width:820px) {
+  .statistics__items {
+    flex-wrap: wrap;
+  }
+  .statistics__item {  
+    padding: 25px 0;
+  }
+  .advantages__inner-title--bottom {
+    order: -1;
+  }
+}
+@media(max-width:410px) {
+  .header__content-title {
+    font-size: 70px;
+    line-height: 80px;
+   
+
+}
+}
+@media(max-width:400px) {
+  .header__logo img {
+    width: 200px;
+  }
+  .header__content-title{
+    font-size: 70px;
+    line-height: 80px;
+    margin-top: 20px;
+
+
+  }
+  .menu__list a {
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 56px;
+    padding: 19px 10px 7px 0;
+    border-bottom: 3px solid #B70021;
+    min-width: 100%;
+}
+.button {
+  font-size: 24px;
+  border: 1px solid #FFFFFF;
+  padding: 28px 40px;
+  background: rgba(255, 255, 255, 0.15);
+  -webkit-transition: all .3s;
+  transition: all .3s;
+}
+.statistics {
+  margin: 110px 0 50px;
+  text-align: center;
+}
+.images {
+  margin-bottom:50px;
+}
+body {
+  font-size: 20px;
+  line-height: 24px;
+}
+.advantages__inner-text {
+  width: 100%;
+}
+.design__row-item-text {
+  font-size: 20px;
+}
+}
+@media(max-width:1000px) {
+
+}
+@media(max-width:1000px) {
+  
+}
